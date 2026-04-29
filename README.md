@@ -14,9 +14,9 @@ A persona-based AI chat app where you can have conversations with three distinct
 
 ## The Personas
 
-| Persona | Vibe | Ask them about |
-|---|---|---|
-| 🎯 **Kshitij Mishra** | Sharp, challenging, slightly sarcastic | Will question everything you think you know |
+| Persona | Vibe | 
+|---|---|
+| 🎯 **Kshitij Mishra** | Sharp, challenging, slightly sarcastic, will question everything you think you know 🙂‍↕️|
 | 🧠 **Anshuman Singh** | First-principles thinker, structured, calm |
 | 🚀 **Abhimanyu Saxena** | Execution-focused founder, decisive, outcome-driven | 
 
